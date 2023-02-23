@@ -24,7 +24,7 @@ const Details = () => {
 
     return (
         <>
-            <Card sx={{ minWidth: 275 }}>
+            <Card sx={{ minWidth: 275 }} style={{marginBottom:'20px',textAlign:'center'}}>
              <CardContent>
                 <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
                      Social Buddy Post
